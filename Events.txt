@@ -1,0 +1,5 @@
+autumn,2016-05-1001:30:00,2016-05-1003:30:51,good,3,5,0 days/2 hours/0 minutes/51 seconds
+alex,2017-04-0508:00:00,2017-04-0509:00:00,good,1,6,0 days/1 hours/0 minutes/0 seconds
+alex,2017-04-1108:00:00,2017-04-1110:00:00,none,2,4,0 days/2 hours/0 minutes/0 seconds
+william,2017-04-1903:20:00,2017-04-1904:26:03,yes,4,2,0 days/1 hours/6 minutes/3 seconds
+autumn,2017-04-2005:00:00,2017-04-2007:00:00,haha,5,5,0 days/2 hours/0 minutes/0 seconds
